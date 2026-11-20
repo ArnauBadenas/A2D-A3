@@ -50,6 +50,9 @@ TagManager:
   - name: Primer plano
     uniqueID: 1544702047
     locked: 0
+  - name: Character
+    uniqueID: 560611127
+    locked: 0
   m_RenderingLayers:
   - Default
   m_MigratedRenderPipelines: []
